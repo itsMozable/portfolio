@@ -14,7 +14,7 @@ function Contact() {
         <div className="container">
           <div className="text-wrapper w-full">
             <h1 data-cy="pageTitle" className="title">
-              Kontakt
+              Contact
             </h1>
             <p className="description">Wohnhaft in Wien</p>
             <ul className="contact-links">
